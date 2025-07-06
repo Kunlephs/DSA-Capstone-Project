@@ -1,4 +1,4 @@
-# DSA-Capstone-Project
+# DSA Projects Documentation
 Welcome to my data analysis portfolio! This repository documents my learning journey and practical applications of digital skills in Microsoft Excel, SQL, and Power BI. Each section includes basic functions, use cases, and mini-projects that demonstrate my growing expertise in data analysis with **The Incubator Hub**.
 
 ## Microsoft Excel
