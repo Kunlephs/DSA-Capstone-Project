@@ -57,19 +57,16 @@ Use pivot tables and calculated columns where necessary to answer the following:
 5. What is the average actual price vs the discounted price by category?
 6. Which products have the highest number of reviews?
 7. How many products have a discount of 50% or more?
-8. What is the distribution of product ratings (e.g., how many products are rated 3.0,
-4.0, etc.)?
+8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
 9. What is the total potential revenue (actual_price × rating_count) by category?
-10. What is the number of unique products per price range bucket (e.g., <₹200,
-₹200–₹500, >₹500)?
+10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?
 11. How does the rating relate to the level of discount?
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
 ##### Final Task: Dashboard Creation
-Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your
-Creativity
+Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your Creativity
 
 Click this [Detailed Insights](https://github.com/user-attachments/files/21089735/Amazon.Case.Study.Project_DSA.xlsx) for a better review of my project presentations on the case study.
 
@@ -79,7 +76,6 @@ Click this [Detailed Insights](https://github.com/user-attachments/files/2108973
 #### Company Overview
 
 The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. Cases like this can only spiral downwards, revealing other issues like the gender pay gap, amongst other possible issues.
-
 
 
 ##### Task 
@@ -97,4 +93,30 @@ etc.?
 ● Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
 ● Total amount to be paid out per region and company-wide
 
+See the attached Palmoria Group HR Analysis for the insightful visuals.
 
+### Recommendations to address Palmoria Group’s gender equality issues:
+1. **Conduct a Gender Pay Audit:**
+   - Compare average salaries by gender within the same roles and departments.
+   - Identify departments or regions with unjustified pay gaps.
+   - Adjust salaries where discrepancies exist.
+  
+2. **Eliminate Salary Negotiations**
+   - Set fixed salary bands for roles and levels.
+   - Ensure starting salaries are based on role, not negotiation outcomes.
+
+3. **Standardize Hiring & Promotion Criteria**
+   - Use score-based evaluations for interviews and promotions.
+   - Ensure job descriptions use gender-neutral language.
+   - Require gender-balanced interview panels for all hires.
+  
+4. **Enforce Balanced Representation Targets**
+   - Set targets (e.g. 40% female hires) for underrepresented departments like Engineering or Legal.
+   - Monitor female vs. male representation in leadership roles.
+  
+5. **Establish Gender Equity KPIs**
+   - Track and report monthly:
+       - Gender distribution by department
+       - Gender pay ratios
+       - Performance rating trends by gender
+   - Use dashboards visible to HR and leadership.
