@@ -46,3 +46,55 @@ So I chose the following case studies for my project.
 You are working as a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been
 tasked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
+A dataset has been provided for this task.
+
+##### Analysis Tasks
+Use pivot tables and calculated columns where necessary to answer the following:
+1. What is the average discount percentage by product category?
+2. How many products are listed under each category?
+3. What is the total number of reviews per category?
+4. Which products have the highest average ratings?
+5. What is the average actual price vs the discounted price by category?
+6. Which products have the highest number of reviews?
+7. How many products have a discount of 50% or more?
+8. What is the distribution of product ratings (e.g., how many products are rated 3.0,
+4.0, etc.)?
+9. What is the total potential revenue (actual_price × rating_count) by category?
+10. What is the number of unique products per price range bucket (e.g., <₹200,
+₹200–₹500, >₹500)?
+11. How does the rating relate to the level of discount?
+12. How many products have fewer than 1,000 reviews?
+13. Which categories have products with the highest discounts?
+14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+##### Final Task: Dashboard Creation
+Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your
+Creativity
+
+Click this [Detailed Insights](https://github.com/user-attachments/files/21089735/Amazon.Case.Study.Project_DSA.xlsx) for a better review of my project presentations on the case study.
+
+
+
+## Case Study 3: Palmora Group HR Analysis
+#### Company Overview
+
+The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. Cases like this can only spiral downwards, revealing other issues like the gender pay gap, amongst other possible issues.
+
+
+
+##### Task 
+1. What is the gender distribution in the organization? Distil to regions and
+departments
+2. Show insights on ratings based on gender
+3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
+4. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
+● Does Palmoria meet this requirement?
+● Show the pay distribution of employees grouped by a band of $10,000. For example: ● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000,
+etc.?
+● Also visualize this by regions
+5. Mr Gamma thought to himself that since you were already working on the employee data, you could help out with allocating the annual bonus pay to employees based on the performance rating. He handed you another data set that contains rules for making bonus payments and asked you to:
+● Calculate the amount to be paid as a bonus to individual employees
+● Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
+● Total amount to be paid out per region and company-wide
+
+
