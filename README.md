@@ -68,7 +68,10 @@ Use pivot tables and calculated columns where necessary to answer the following:
 ##### Final Task: Dashboard Creation
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your Creativity
 
+![Amazon Case Study Dashboard_](https://github.com/user-attachments/assets/8b0579d9-d56a-41a8-9872-19504715a4a9)
+
 Click this [Detailed Insights](https://github.com/user-attachments/files/21089735/Amazon.Case.Study.Project_DSA.xlsx) for a better review of my project presentations on the case study.
+
 
 
 
@@ -93,7 +96,12 @@ etc.?
 ● Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
 ● Total amount to be paid out per region and company-wide
 
-See the attached Palmoria Group HR Analysis for the insightful visuals.
+See the attached Palmoria Group HR Analysis file for the insightful visuals.
+
+![Palmoria Group Case Study Dashboard_](https://github.com/user-attachments/assets/d0fd2077-6ca6-452e-9b81-102a1ffdebb9)
+
+![Palmoria Group Case Study Dashboard_2](https://github.com/user-attachments/assets/0a7ac835-fd4d-4ad5-9bc3-9197101e1473)
+
 
 ### Recommendations to address Palmoria Group’s gender equality issues:
 1. **Conduct a Gender Pay Audit:**
